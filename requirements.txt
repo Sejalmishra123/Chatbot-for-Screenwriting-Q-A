@@ -1,0 +1,2 @@
+spacy==3.5.0  # spaCy for NLP processing tasks
+googletrans==4.0.0-rc1  # Google Translate API wrapper for language translation
